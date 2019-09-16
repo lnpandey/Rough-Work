@@ -1,4 +1,4 @@
-# It is just a reference document for me to take refernce for readme files
+# It is just a reference document for me to take reference for readme files
 
 # ATTENTION MODEL ON MOSAIC IMAGE 
 
